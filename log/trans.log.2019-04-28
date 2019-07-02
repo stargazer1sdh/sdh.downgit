@@ -1,0 +1,4 @@
+2019--04--28 00:17:44 (class:MainDown)-(INFO) start
+ 2019--04--28 22:30:06 (class:net.GzipDown)-(INFO) https://github.com/gchq/Gaffer/raw/0e6842134bd26d55301cba356d7a03640a319fcb/library/spark/spark-accumulo-library/src/main/java/uk/gov/gchq/gaffer/sparkaccumulo/operation/handler/javardd/GetJavaRDDOfAllElementsHandler.java : java.net.UnknownHostException: raw.githubusercontent.com
+ 2019--04--28 22:30:16 (class:net.GzipDown)-(INFO) https://github.com/gchq/Gaffer/raw/0e6842134bd26d55301cba356d7a03640a319fcb/library/spark/spark-accumulo-library/src/main/java/uk/gov/gchq/gaffer/sparkaccumulo/operation/handler/javardd/GetJavaRDDOfAllElementsHandler.java : java.net.NoRouteToHostException: No route to host: connect
+ 

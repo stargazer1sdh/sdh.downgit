@@ -1,0 +1,4 @@
+2019--05--30 01:54:34 (class:net.GzipDown)-(INFO) https://github.com/dianping/cat/raw/490204fbdda9077585acf2079fa849bddfde42e5/cat-notify/src/main/java/com/dianping/cat/notify/job/SendReportMailJob.java : java.io.IOException: Server returned HTTP response code: 503 for URL: https://raw.githubusercontent.com/dianping/cat/490204fbdda9077585acf2079fa849bddfde42e5/cat-notify/src/main/java/com/dianping/cat/notify/job/SendReportMailJob.java
+ 2019--05--30 11:21:59 (class:MainDown)-(INFO) ef1ff1e7717f99e32ebef2417368c287680a2598 no parents
+ 2019--05--30 11:22:03 (class:MainDown)-(INFO) end
+ 

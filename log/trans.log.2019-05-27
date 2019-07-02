@@ -1,0 +1,8 @@
+2019--05--27 19:21:58 (class:MainDown)-(INFO) start
+ 2019--05--28 00:41:36 (class:net.GzipDown)-(INFO) https://github.com/dianping/cat/raw/61cc55cc8b46cf2b5c1256d952acc205ffbc54c7/cat-home/src/main/java/com/dianping/cat/system/config/RouterConfigManager.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--28 00:42:07 (class:net.GzipDown)-(INFO) https://github.com/dianping/cat/raw/61cc55cc8b46cf2b5c1256d952acc205ffbc54c7/cat-home/src/main/java/com/dianping/cat/system/config/RouterConfigManager.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--28 00:42:38 (class:net.GzipDown)-(INFO) https://github.com/dianping/cat/raw/61cc55cc8b46cf2b5c1256d952acc205ffbc54c7/cat-home/src/main/java/com/dianping/cat/system/config/RouterConfigManager.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--28 00:43:09 (class:net.GzipDown)-(INFO) https://github.com/dianping/cat/raw/61cc55cc8b46cf2b5c1256d952acc205ffbc54c7/cat-home/src/main/java/com/dianping/cat/system/config/RouterConfigManager.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--28 00:43:40 (class:net.GzipDown)-(INFO) https://github.com/dianping/cat/raw/61cc55cc8b46cf2b5c1256d952acc205ffbc54c7/cat-home/src/main/java/com/dianping/cat/system/config/RouterConfigManager.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--28 00:44:11 (class:net.GzipDown)-(INFO) https://github.com/dianping/cat/raw/61cc55cc8b46cf2b5c1256d952acc205ffbc54c7/cat-home/src/main/java/com/dianping/cat/system/config/RouterConfigManager.java : java.net.ConnectException: Connection timed out: connect
+ 

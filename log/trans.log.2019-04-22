@@ -1,0 +1,272 @@
+2019--04--22 16:56:44 (class:MainDown)-(INFO) start
+ 2019--04--22 16:57:03 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 16:57:03 (class:MainDown)-(INFO) end
+ 2019--04--22 16:58:59 (class:MainDown)-(INFO) start
+ 2019--04--22 16:59:10 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 16:59:10 (class:MainDown)-(INFO) end
+ 2019--04--22 17:00:02 (class:MainDown)-(INFO) start
+ 2019--04--22 17:00:13 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 17:00:13 (class:MainDown)-(INFO) end
+ 2019--04--22 17:06:01 (class:MainDown)-(INFO) start
+ 2019--04--22 17:11:17 (class:MainDown)-(INFO) start
+ 2019--04--22 17:11:21 (class:db.DBUtils)-(ERROR) dbcon err
+ 2019--04--22 17:11:22 (class:db.DBUtils)-(ERROR) dbcon err
+ 2019--04--22 17:11:23 (class:db.DBUtils)-(ERROR) dbcon err
+ 2019--04--22 17:11:24 (class:db.DBUtils)-(ERROR) dbcon err
+ 2019--04--22 17:11:25 (class:db.DBUtils)-(ERROR) dbcon err
+ 2019--04--22 17:15:31 (class:MainDown)-(INFO) start
+ 2019--04--22 17:15:35 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ 2019--04--22 17:15:36 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ 2019--04--22 17:15:37 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ 2019--04--22 17:15:38 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+ 2019--04--22 17:17:18 (class:MainDown)-(INFO) start
+ 2019--04--22 17:17:29 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 17:17:29 (class:MainDown)-(INFO) end
+ 2019--04--22 17:18:13 (class:MainDown)-(INFO) start
+ 2019--04--22 17:18:25 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 17:18:25 (class:MainDown)-(INFO) end
+ 2019--04--22 17:42:45 (class:MainDown)-(INFO) start
+ 2019--04--22 17:43:09 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 17:43:09 (class:MainDown)-(INFO) end
+ 2019--04--22 17:44:34 (class:MainDown)-(INFO) start
+ 2019--04--22 17:44:57 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 17:44:57 (class:MainDown)-(INFO) end
+ 2019--04--22 17:45:30 (class:MainDown)-(INFO) start
+ 2019--04--22 17:45:53 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e has 2 parents
+ 2019--04--22 17:45:53 (class:MainDown)-(INFO) 672d8da1483898d0ddd9a33de4642a70b99c14e7 no parents
+ 2019--04--22 17:45:53 (class:MainDown)-(INFO) end
+ 2019--04--22 17:48:41 (class:MainDown)-(INFO) start
+ 2019--04--22 17:48:45 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:46 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:47 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:48 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:49 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:50 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:51 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:52 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:53 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:54 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:55 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:56 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:57 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:58 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:48:59 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:49:00 (class:db.DBUtils)-(ERROR) dbcon err:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+ 2019--04--22 17:50:01 (class:MainDown)-(INFO) start
+ 2019--04--22 17:50:13 (class:MainDown)-(INFO) error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 17:50:13 (class:MainDown)-(INFO) end
+ 2019--04--22 18:01:03 (class:MainDown)-(INFO) start
+ 2019--04--22 18:01:08 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e has 2 parents
+ 2019--04--22 18:01:08 (class:MainDown)-(INFO) 672d8da1483898d0ddd9a33de4642a70b99c14e7 no parents
+ 2019--04--22 18:01:08 (class:MainDown)-(INFO) end
+ 2019--04--22 18:32:13 (class:MainDown)-(INFO) start
+ 2019--04--22 18:32:24 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:32:39 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:32:54 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:33:15 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:33:51 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:34:11 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:34:57 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: 200, message: 'OK' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:35:06 (class:db.DBUtils)-(ERROR) dir/pp in be061c434ea134d19120585771f3200aabe9bfd8 insertFilePair err:java.sql.SQLException: Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:06 (class:MainDown)-(INFO) be061c434ea134d19120585771f3200aabe9bfd8 error:Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:07 (class:db.DBUtils)-(ERROR) plus in aac98373a0d349adca4a9395741c002d430881f9 insertFilePair err:java.sql.SQLException: Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:07 (class:MainDown)-(INFO) aac98373a0d349adca4a9395741c002d430881f9 error:Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:07 (class:db.DBUtils)-(ERROR) plus in 50b17cb77c832df7fb02722f217ae8b36c6e6482 insertFilePair err:java.sql.SQLException: Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:07 (class:MainDown)-(INFO) 50b17cb77c832df7fb02722f217ae8b36c6e6482 error:Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:09 (class:db.DBUtils)-(ERROR) plus in f8cda8f5602bbfed0afb5fac42d32eb475289c10 insertFilePair err:java.sql.SQLException: Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:09 (class:MainDown)-(INFO) f8cda8f5602bbfed0afb5fac42d32eb475289c10 error:Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:09 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e has 2 parents
+ 2019--04--22 18:35:10 (class:db.DBUtils)-(ERROR) origin2.txt in a1df69fc15808f1138f158d287c0b4986217b50e insertFilePair err:java.sql.SQLException: Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:10 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e error:Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:11 (class:db.DBUtils)-(ERROR) serverfix.txt in 963b61eb415b95b8c52f286e39f7f70e72084def insertFilePair err:java.sql.SQLException: Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:11 (class:MainDown)-(INFO) 963b61eb415b95b8c52f286e39f7f70e72084def error:Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:12 (class:db.DBUtils)-(ERROR) sdh.txt in 5762512f24392cb563701b4dc340d39f0acd4fb2 insertFilePair err:java.sql.SQLException: Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:35:12 (class:MainDown)-(INFO) 5762512f24392cb563701b4dc340d39f0acd4fb2 error:Incorrect string value: '\xE6\x96\xB9\xE5\x90\x91...' for column 'dir' at row 1
+ 2019--04--22 18:44:28 (class:MainDown)-(INFO) start
+ 2019--04--22 18:44:56 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:45:14 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:45:33 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:45:57 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:46:23 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 18:46:33 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e has 2 parents
+ 2019--04--22 18:46:36 (class:MainDown)-(INFO) 672d8da1483898d0ddd9a33de4642a70b99c14e7 no parents
+ 2019--04--22 18:46:37 (class:MainDown)-(INFO) end
+ 2019--04--22 19:05:48 (class:MainDown)-(INFO) start
+ 2019--04--22 19:06:26 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: 200, message: 'OK' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:06:44 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:07:03 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:07:20 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:07:37 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:07:54 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:08:13 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:08:32 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:08:48 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:09:10 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:09:26 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:09:51 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 19:37:22 (class:MainDown)-(INFO) start
+ 2019--04--22 19:47:13 (class:MainDown)-(INFO) start
+ 2019--04--22 19:47:20 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e has 2 parents
+ 2019--04--22 19:47:23 (class:MainDown)-(INFO) 672d8da1483898d0ddd9a33de4642a70b99c14e7 no parents
+ 2019--04--22 19:47:25 (class:MainDown)-(INFO) end
+ 2019--04--22 19:57:02 (class:MainDown)-(INFO) start
+ 2019--04--22 19:58:14 (class:MainDown)-(INFO) start
+ 2019--04--22 19:58:20 (class:net.TextDown)-(INFO) right:false	https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/dir/pp	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/dir/pp
+ 2019--04--22 19:58:26 (class:net.TextDown)-(INFO) right:true	https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/plus	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/plus
+ 2019--04--22 19:58:31 (class:net.TextDown)-(INFO) right:false	https://github.com/stargazer1sdh/remote/raw/a1df69fc15808f1138f158d287c0b4986217b50e/plus	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/a1df69fc15808f1138f158d287c0b4986217b50e/plus
+ 2019--04--22 19:58:33 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e has 2 parents
+ 2019--04--22 19:58:35 (class:net.TextDown)-(INFO) right:false	https://github.com/stargazer1sdh/remote/raw/5762512f24392cb563701b4dc340d39f0acd4fb2/origin2.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/5762512f24392cb563701b4dc340d39f0acd4fb2/origin2.txt
+ 2019--04--22 19:58:38 (class:net.TextDown)-(INFO) right:false	https://github.com/stargazer1sdh/remote/raw/5762512f24392cb563701b4dc340d39f0acd4fb2/serverfix.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/5762512f24392cb563701b4dc340d39f0acd4fb2/serverfix.txt
+ 2019--04--22 19:58:42 (class:net.TextDown)-(INFO) right:false	https://github.com/stargazer1sdh/remote/raw/ef021e25cb1b25e29bbe38141a133a3ecd58559f/serverfix.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/ef021e25cb1b25e29bbe38141a133a3ecd58559f/serverfix.txt
+ 2019--04--22 19:58:46 (class:net.TextDown)-(INFO) right:false	https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/sdh.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/sdh.txt
+ 2019--04--22 19:58:50 (class:net.TextDown)-(INFO) right:false	https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/origin2.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/origin2.txt
+ 2019--04--22 19:58:51 (class:MainDown)-(INFO) 672d8da1483898d0ddd9a33de4642a70b99c14e7 no parents
+ 2019--04--22 19:58:53 (class:MainDown)-(INFO) end
+ 2019--04--22 20:22:22 (class:MainDown)-(INFO) start
+ 2019--04--22 20:22:23 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:22:29 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:22:35 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:22:41 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:22:47 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:22:53 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:22:59 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:05 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:11 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:17 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:23 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:29 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:35 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:41 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:47 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:53 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:23:59 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:24:05 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:24:11 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:24:17 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:24:36 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:24:57 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/stargazer1sdh/remote
+ 2019--04--22 20:25:09 (class:net.TextDown)-(INFO) https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/dir/pp	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/dir/pp
+ 2019--04--22 20:25:09 (class:MainDown)-(INFO) be061c434ea134d19120585771f3200aabe9bfd8 error:https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/dir/pp
+ 2019--04--22 20:25:13 (class:net.TextDown)-(INFO) https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/plus	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/plus
+ 2019--04--22 20:25:13 (class:MainDown)-(INFO) aac98373a0d349adca4a9395741c002d430881f9 error:https://github.com/stargazer1sdh/remote/raw/aac98373a0d349adca4a9395741c002d430881f9/plus
+ 2019--04--22 20:25:19 (class:net.TextDown)-(INFO) https://github.com/stargazer1sdh/remote/raw/a1df69fc15808f1138f158d287c0b4986217b50e/plus	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/a1df69fc15808f1138f158d287c0b4986217b50e/plus
+ 2019--04--22 20:25:19 (class:MainDown)-(INFO) f8cda8f5602bbfed0afb5fac42d32eb475289c10 error:https://github.com/stargazer1sdh/remote/raw/a1df69fc15808f1138f158d287c0b4986217b50e/plus
+ 2019--04--22 20:25:19 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e has 2 parents
+ 2019--04--22 20:25:21 (class:net.TextDown)-(INFO) https://github.com/stargazer1sdh/remote/raw/5762512f24392cb563701b4dc340d39f0acd4fb2/origin2.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/5762512f24392cb563701b4dc340d39f0acd4fb2/origin2.txt
+ 2019--04--22 20:25:21 (class:MainDown)-(INFO) a1df69fc15808f1138f158d287c0b4986217b50e error:https://github.com/stargazer1sdh/remote/raw/5762512f24392cb563701b4dc340d39f0acd4fb2/origin2.txt
+ 2019--04--22 20:25:24 (class:net.TextDown)-(INFO) https://github.com/stargazer1sdh/remote/raw/ef021e25cb1b25e29bbe38141a133a3ecd58559f/serverfix.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/ef021e25cb1b25e29bbe38141a133a3ecd58559f/serverfix.txt
+ 2019--04--22 20:25:24 (class:MainDown)-(INFO) 963b61eb415b95b8c52f286e39f7f70e72084def error:https://github.com/stargazer1sdh/remote/raw/ef021e25cb1b25e29bbe38141a133a3ecd58559f/serverfix.txt
+ 2019--04--22 20:25:26 (class:net.TextDown)-(INFO) https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/sdh.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/sdh.txt
+ 2019--04--22 20:25:26 (class:MainDown)-(INFO) 5762512f24392cb563701b4dc340d39f0acd4fb2 error:https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/sdh.txt
+ 2019--04--22 20:25:28 (class:net.TextDown)-(INFO) https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/origin2.txt	java.io.FileNotFoundException: https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/origin2.txt
+ 2019--04--22 20:25:28 (class:MainDown)-(INFO) ef021e25cb1b25e29bbe38141a133a3ecd58559f error:https://github.com/stargazer1sdh/remote/raw/672d8da1483898d0ddd9a33de4642a70b99c14e7/origin2.txt
+ 2019--04--22 20:25:28 (class:MainDown)-(INFO) 672d8da1483898d0ddd9a33de4642a70b99c14e7 no parents
+ 2019--04--22 20:25:30 (class:MainDown)-(INFO) end
+ 2019--04--22 20:36:35 (class:MainDown)-(INFO) start
+ 2019--04--22 20:36:50 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 20:37:12 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 20:37:31 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 20:38:05 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 20:38:27 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 20:38:43 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 20:41:35 (class:MainDown)-(INFO) 77309b9996fbff6367d7d9ce83f3399a47ec76fa error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/77309b9996fbff6367d7d9ce83f3399a47ec76fa
+ 2019--04--22 20:43:07 (class:net.TextDown)-(INFO) https://github.com/gchq/Gaffer/raw/fbc36c71f91fd25deca7480ec25010fba49fb035/library/cache-library/jcs-cache-service/pom.xml	java.net.NoRouteToHostException: No route to host: connect
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) fbc36c71f91fd25deca7480ec25010fba49fb035 error:No route to host: connect
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) c90366335f370a96330ccc3d348d136c8fe44c85 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/c90366335f370a96330ccc3d348d136c8fe44c85
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) 359f0c65c3a61e8e295db779da842573dcb26bb5 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/359f0c65c3a61e8e295db779da842573dcb26bb5
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) 827d338d08dde15f8cabfdd05d7a1a56772df026 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/827d338d08dde15f8cabfdd05d7a1a56772df026
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) 8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) 6664ed27026c035104a4936a0847e7587e1c3fe0 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/6664ed27026c035104a4936a0847e7587e1c3fe0
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) c8a89afd4fad7cd81d411abb12e63b11898eab23 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/c8a89afd4fad7cd81d411abb12e63b11898eab23
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) ee500d97b287e09eec3dc8f5c9aa98a19f1528a4 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) 4341738437932378e573e4a191d6322745f01c08 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/4341738437932378e573e4a191d6322745f01c08
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) a6f5cae6ccd9390b943f164afb2b193b1c58a1e4 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/a6f5cae6ccd9390b943f164afb2b193b1c58a1e4
+ 2019--04--22 20:43:07 (class:MainDown)-(INFO) 41421bb67d1f64046190937642c702623a1008dc error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/41421bb67d1f64046190937642c702623a1008dc
+ 2019--04--22 20:43:08 (class:MainDown)-(INFO) 928e6d583a27d42937e8e393acb86cd8124b1333 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/928e6d583a27d42937e8e393acb86cd8124b1333
+ 2019--04--22 20:43:08 (class:MainDown)-(INFO) 5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7
+ 2019--04--22 20:43:08 (class:MainDown)-(INFO) 62d63c8fb423de1ef8419d4f4aad2e86ef406248 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/62d63c8fb423de1ef8419d4f4aad2e86ef406248
+ 2019--04--22 20:43:08 (class:MainDown)-(INFO) c46838509aaafd207f83a44f7f2e0072776a2e51 error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/c46838509aaafd207f83a44f7f2e0072776a2e51
+ 2019--04--22 21:04:37 (class:MainDown)-(INFO) start
+ 2019--04--22 21:07:17 (class:net.TextDown)-(INFO) https://github.com/gchq/Gaffer/raw/219fdb0fe3fdfd79037c108156c8d27f41a95038/store-implementation/hbase-store/pom.xml	java.net.NoRouteToHostException: No route to host: connect
+ 2019--04--22 21:07:17 (class:MainDown)-(INFO) 219fdb0fe3fdfd79037c108156c8d27f41a95038 error:No route to host: connect
+ 2019--04--22 21:13:08 (class:MainDown)-(INFO) start
+ 2019--04--22 21:31:43 (class:MainDown)-(INFO) start
+ 2019--04--22 21:31:54 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:32:10 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:38:53 (class:MainDown)-(INFO) start
+ 2019--04--22 21:39:05 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:39:26 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:39:53 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:40:18 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:52:21 (class:MainDown)-(INFO) start
+ 2019--04--22 21:52:43 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:52:59 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:53:20 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:53:41 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer
+ 2019--04--22 21:56:38 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:57:00 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:57:20 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:57:40 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:58:08 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:58:27 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:58:46 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:59:17 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 21:59:41 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 22:00:00 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 22:00:36 (class:MainDown)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d error:Server returned HTTP response code: 200, message: 'OK' for URL: https://api.github.com/repos/gchq/Gaffer/commits/d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d
+ 2019--04--22 22:00:55 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:01:20 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:01:50 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:02:31 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:02:54 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:03:32 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:03:52 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:04:29 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:04:58 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:05:23 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:05:42 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:06:01 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=7
+ 2019--04--22 22:06:45 (class:MainDown)-(INFO) 359f0c65c3a61e8e295db779da842573dcb26bb5 error:Server returned HTTP response code: 200, message: 'OK' for URL: https://api.github.com/repos/gchq/Gaffer/commits/359f0c65c3a61e8e295db779da842573dcb26bb5
+ 2019--04--22 22:07:01 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=8
+ 2019--04--22 22:07:20 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=8
+ 2019--04--22 22:32:33 (class:MainDown)-(INFO) start
+ 2019--04--22 22:35:19 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=2
+ 2019--04--22 22:35:40 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=2
+ 2019--04--22 22:36:28 (class:MainDown)-(INFO) 77309b9996fbff6367d7d9ce83f3399a47ec76fa error:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/gchq/Gaffer/commits/77309b9996fbff6367d7d9ce83f3399a47ec76fa
+ 2019--04--22 22:36:49 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=3
+ 2019--04--22 22:37:20 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=3
+ 2019--04--22 22:40:27 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=5
+ 2019--04--22 22:40:52 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=5
+ 2019--04--22 22:41:13 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=5
+ 2019--04--22 22:41:33 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=5
+ 2019--04--22 22:47:12 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:47:31 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:47:54 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:48:13 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:48:42 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:49:07 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:49:26 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:49:45 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:50:06 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:50:25 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:51:04 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=9
+ 2019--04--22 22:54:32 (class:net.TextDown)-(INFO) https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java
+ 2019--04--22 22:54:32 (class:MainDown)-(INFO) c8a89afd4fad7cd81d411abb12e63b11898eab23 error:https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java
+ 2019--04--22 22:54:44 (class:net.TextDown)-(INFO) https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java
+ 2019--04--22 22:54:44 (class:MainDown)-(INFO) ee500d97b287e09eec3dc8f5c9aa98a19f1528a4 error:https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java
+ 2019--04--22 23:41:37 (class:MainDown)-(INFO) start
+ 2019--04--22 23:49:35 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 23:50:06 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=6
+ 2019--04--22 23:55:55 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=10
+ 2019--04--22 23:56:19 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=10
+ 2019--04--22 23:56:38 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=10
+ 2019--04--22 23:57:00 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=10
+ 2019--04--22 23:57:30 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=10
+ 2019--04--22 23:57:57 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/47973088/commits?per_page=1&page=10
+ 2019--04--22 23:58:33 (class:net.TextDown)-(INFO) https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java
+ 2019--04--22 23:58:33 (class:MainDown)-(INFO) c8a89afd4fad7cd81d411abb12e63b11898eab23 error:https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java
+ 2019--04--22 23:58:42 (class:net.TextDown)-(INFO) https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java
+ 2019--04--22 23:58:42 (class:MainDown)-(INFO) ee500d97b287e09eec3dc8f5c9aa98a19f1528a4 error:https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java
+ 

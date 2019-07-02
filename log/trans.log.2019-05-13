@@ -1,0 +1,51 @@
+2019--05--13 20:36:45 (class:MainDown)-(INFO) start
+ 2019--05--13 20:36:51 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:37:03 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:37:14 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:37:27 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:37:39 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:37:51 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:38:06 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:38:18 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:38:29 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:38:40 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:38:52 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:39:03 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:39:15 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:39:27 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:39:38 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:39:50 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:40:03 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:40:14 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:40:27 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:40:39 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:40:51 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:41:03 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:41:14 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:41:26 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:41:37 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:41:49 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:42:00 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:42:12 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:42:23 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:42:35 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:42:49 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:43:01 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:43:13 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:43:24 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:43:36 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:43:47 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:43:59 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:44:13 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:44:25 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:44:37 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:44:49 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:45:00 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:45:14 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repos/gchq/Gaffer/commits?sha=31275a67f8fa261dec38e0c5b6445d2b3d88975c&per_page=1 reconnect
+ 2019--05--13 20:46:27 (class:MainDown)-(INFO) start
+ 2019--05--13 22:26:39 (class:net.GzipDown)-(INFO) https://github.com/gchq/Gaffer/raw/f4aa0e2046f0956d5478ff819fed166bbea6bfd0/core/common-util/src/test/java/uk/gov/gchq/gaffer/commonutil/GroupUtilTest.java : java.net.NoRouteToHostException: No route to host: connect
+ 2019--05--13 22:26:49 (class:net.GzipDown)-(INFO) https://github.com/gchq/Gaffer/raw/f4aa0e2046f0956d5478ff819fed166bbea6bfd0/core/common-util/src/test/java/uk/gov/gchq/gaffer/commonutil/GroupUtilTest.java : java.net.UnknownHostException: github.com
+ 2019--05--13 22:26:59 (class:net.GzipDown)-(INFO) https://github.com/gchq/Gaffer/raw/f4aa0e2046f0956d5478ff819fed166bbea6bfd0/core/common-util/src/test/java/uk/gov/gchq/gaffer/commonutil/GroupUtilTest.java : java.net.UnknownHostException: github.com
+ 2019--05--13 22:27:09 (class:net.GzipDown)-(INFO) https://github.com/gchq/Gaffer/raw/f4aa0e2046f0956d5478ff819fed166bbea6bfd0/core/common-util/src/test/java/uk/gov/gchq/gaffer/commonutil/GroupUtilTest.java : java.net.UnknownHostException: github.com
+ 2019--05--13 22:27:19 (class:net.GzipDown)-(INFO) https://github.com/gchq/Gaffer/raw/f4aa0e2046f0956d5478ff819fed166bbea6bfd0/core/common-util/src/test/java/uk/gov/gchq/gaffer/commonutil/GroupUtilTest.java : java.net.UnknownHostException: github.com
+ 

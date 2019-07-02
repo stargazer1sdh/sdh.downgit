@@ -1,0 +1,3 @@
+2019--05--12 19:32:36 (class:chdistill.MyChangedistiller)-(INFO) Update: public	MODIFIERS: 	uk.gov.gchq.gaffer.parquetstore.utils.SortDataTest.generatePreAggregatedData()
+2019--05--12 19:32:36 (class:MainAnalysis)-(INFO) gchq/Gaffer b9b5ea1314f3573aa27b5ed6e0ebe2423347ac22 hasChangedModifer in:store-implementation/parquet-store/src/test/java/uk/gov/gchq/gaffer/parquetstore/utils/SortDataTest.java
+ 

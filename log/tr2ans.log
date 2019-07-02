@@ -1,0 +1,337 @@
+2019--04--16 04:31:47 (class:MainDis)-(INFO) start
+ 2019--04--16 04:31:51 (class:MainDis)-(INFO) 219fdb0fe3fdfd79037c108156c8d27f41a95038 p 77309b9996fbff6367d7d9ce83f3399a47ec76fa
+ 2019--04--16 04:31:51 (class:MainDis)-(INFO) 77309b9996fbff6367d7d9ce83f3399a47ec76fa p 9deef53d498a6f308fa622be7015626bf9890dc4
+ 2019--04--16 04:31:52 (class:MainDis)-(INFO) 9deef53d498a6f308fa622be7015626bf9890dc4 p fbc36c71f91fd25deca7480ec25010fba49fb035
+ 2019--04--16 04:31:55 (class:MainDis)-(INFO) fbc36c71f91fd25deca7480ec25010fba49fb035 p c90366335f370a96330ccc3d348d136c8fe44c85
+ 2019--04--16 04:31:55 (class:MainDis)-(INFO) c90366335f370a96330ccc3d348d136c8fe44c85 p d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d
+ 2019--04--16 04:31:56 (class:MainDis)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d p 359f0c65c3a61e8e295db779da842573dcb26bb5
+ 2019--04--16 04:31:58 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d\0\left.java del fail
+ 2019--04--16 04:32:00 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d\1\left.java del fail
+ 2019--04--16 04:32:01 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d\2\left.java del fail
+ 2019--04--16 04:32:03 (class:MainDis)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d hasChangedModifer in:library/time-library/src/test/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRangeTest.java
+ 2019--04--16 04:32:03 (class:MainDis)-(INFO) 359f0c65c3a61e8e295db779da842573dcb26bb5 p dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344
+ 2019--04--16 04:32:05 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\359f0c65c3a61e8e295db779da842573dcb26bb5\0\left.java del fail
+ 2019--04--16 04:32:07 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\359f0c65c3a61e8e295db779da842573dcb26bb5\1\left.java del fail
+ 2019--04--16 04:32:09 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\359f0c65c3a61e8e295db779da842573dcb26bb5\2\left.java del fail
+ 2019--04--16 04:32:09 (class:MainDis)-(INFO) dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344 p 827d338d08dde15f8cabfdd05d7a1a56772df026
+ 2019--04--16 04:32:10 (class:MainDis)-(INFO) 827d338d08dde15f8cabfdd05d7a1a56772df026 p 8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1
+ 2019--04--16 04:32:10 (class:MainDis)-(INFO) 8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1 p 6664ed27026c035104a4936a0847e7587e1c3fe0
+ 2019--04--16 04:32:11 (class:MainDis)-(INFO) 6664ed27026c035104a4936a0847e7587e1c3fe0 p c8a89afd4fad7cd81d411abb12e63b11898eab23
+ 2019--04--16 04:32:13 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6664ed27026c035104a4936a0847e7587e1c3fe0\1\left.java del fail
+ 2019--04--16 04:32:14 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6664ed27026c035104a4936a0847e7587e1c3fe0\2\left.java del fail
+ 2019--04--16 04:32:14 (class:MainDis)-(INFO) c8a89afd4fad7cd81d411abb12e63b11898eab23 p ee500d97b287e09eec3dc8f5c9aa98a19f1528a4
+ 2019--04--16 04:32:16 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\0\left.java del fail
+ 2019--04--16 04:32:16 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java
+ 2019--04--16 04:32:17 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\1\right.java del fail
+ 2019--04--16 04:32:19 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/c8a89afd4fad7cd81d411abb12e63b11898eab23/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataframeOfElementsHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c8a89afd4fad7cd81d411abb12e63b11898eab23/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataframeOfElementsHandler.java
+ 2019--04--16 04:32:19 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\2\left.java del fail
+ 2019--04--16 04:32:21 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\3\left.java del fail
+ 2019--04--16 04:32:23 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\4\left.java del fail
+ 2019--04--16 04:32:25 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\5\left.java del fail
+ 2019--04--16 04:32:27 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\6\left.java del fail
+ 2019--04--16 04:32:30 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\7\left.java del fail
+ 2019--04--16 04:32:32 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\8\left.java del fail
+ 2019--04--16 04:32:35 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\9\left.java del fail
+ 2019--04--16 04:32:35 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\9\left.java del fail
+ 2019--04--16 04:32:37 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\10\left.java del fail
+ 2019--04--16 04:32:40 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\11\left.java del fail
+ 2019--04--16 04:32:42 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\12\left.java del fail
+ 2019--04--16 04:32:44 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\13\left.java del fail
+ 2019--04--16 04:32:44 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c8a89afd4fad7cd81d411abb12e63b11898eab23\13\left.java del fail
+ 2019--04--16 04:32:44 (class:MainDis)-(INFO) ee500d97b287e09eec3dc8f5c9aa98a19f1528a4 p 4341738437932378e573e4a191d6322745f01c08
+ 2019--04--16 04:32:47 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\ee500d97b287e09eec3dc8f5c9aa98a19f1528a4\1\left.java del fail
+ 2019--04--16 04:32:47 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java
+ 2019--04--16 04:32:49 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\ee500d97b287e09eec3dc8f5c9aa98a19f1528a4\2\right.java del fail
+ 2019--04--16 04:32:51 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\ee500d97b287e09eec3dc8f5c9aa98a19f1528a4\3\left.java del fail
+ 2019--04--16 04:32:52 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/test/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRangeTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/test/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRangeTest.java
+ 2019--04--16 04:32:53 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\ee500d97b287e09eec3dc8f5c9aa98a19f1528a4\4\right.java del fail
+ 2019--04--16 04:32:53 (class:MainDis)-(INFO) 4341738437932378e573e4a191d6322745f01c08 p a6f5cae6ccd9390b943f164afb2b193b1c58a1e4
+ 2019--04--16 04:32:55 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\0\left.java del fail
+ 2019--04--16 04:32:57 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\1\left.java del fail
+ 2019--04--16 04:33:00 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\2\left.java del fail
+ 2019--04--16 04:33:02 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\3\left.java del fail
+ 2019--04--16 04:33:04 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\4\left.java del fail
+ 2019--04--16 04:33:06 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\5\left.java del fail
+ 2019--04--16 04:33:08 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\6\left.java del fail
+ 2019--04--16 04:33:10 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\7\left.java del fail
+ 2019--04--16 04:33:13 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\8\left.java del fail
+ 2019--04--16 04:33:15 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\9\left.java del fail
+ 2019--04--16 04:33:17 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\10\left.java del fail
+ 2019--04--16 04:33:20 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\11\left.java del fail
+ 2019--04--16 04:33:22 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\12\left.java del fail
+ 2019--04--16 04:33:24 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\13\left.java del fail
+ 2019--04--16 04:33:26 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\14\left.java del fail
+ 2019--04--16 04:33:28 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\15\left.java del fail
+ 2019--04--16 04:33:31 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\16\left.java del fail
+ 2019--04--16 04:33:33 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\17\left.java del fail
+ 2019--04--16 04:33:36 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\18\left.java del fail
+ 2019--04--16 04:33:38 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\19\left.java del fail
+ 2019--04--16 04:33:38 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\19\left.java del fail
+ 2019--04--16 04:33:41 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\20\left.java del fail
+ 2019--04--16 04:33:43 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\21\left.java del fail
+ 2019--04--16 04:33:45 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\22\left.java del fail
+ 2019--04--16 04:33:47 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\23\left.java del fail
+ 2019--04--16 04:33:49 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\24\left.java del fail
+ 2019--04--16 04:33:52 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\25\left.java del fail
+ 2019--04--16 04:33:54 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\26\left.java del fail
+ 2019--04--16 04:33:57 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\27\left.java del fail
+ 2019--04--16 04:33:59 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\28\left.java del fail
+ 2019--04--16 04:34:01 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\29\left.java del fail
+ 2019--04--16 04:34:04 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\30\left.java del fail
+ 2019--04--16 04:34:06 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\31\left.java del fail
+ 2019--04--16 04:34:09 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\32\left.java del fail
+ 2019--04--16 04:34:12 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\33\left.java del fail
+ 2019--04--16 04:34:14 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\34\left.java del fail
+ 2019--04--16 04:34:16 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\35\left.java del fail
+ 2019--04--16 04:34:19 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\36\left.java del fail
+ 2019--04--16 04:34:21 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\37\left.java del fail
+ 2019--04--16 04:34:23 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\38\left.java del fail
+ 2019--04--16 04:34:25 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\39\left.java del fail
+ 2019--04--16 04:34:27 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\40\left.java del fail
+ 2019--04--16 04:34:30 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\41\left.java del fail
+ 2019--04--16 04:34:32 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\42\left.java del fail
+ 2019--04--16 04:34:34 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\43\left.java del fail
+ 2019--04--16 04:34:36 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\44\left.java del fail
+ 2019--04--16 04:34:38 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\45\left.java del fail
+ 2019--04--16 04:34:40 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\46\left.java del fail
+ 2019--04--16 04:34:43 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\47\left.java del fail
+ 2019--04--16 04:34:45 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\48\left.java del fail
+ 2019--04--16 04:34:47 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\49\left.java del fail
+ 2019--04--16 04:34:49 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\50\left.java del fail
+ 2019--04--16 04:34:51 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\51\left.java del fail
+ 2019--04--16 04:34:54 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\52\left.java del fail
+ 2019--04--16 04:34:56 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\53\left.java del fail
+ 2019--04--16 04:34:58 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\54\left.java del fail
+ 2019--04--16 04:35:01 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\55\left.java del fail
+ 2019--04--16 04:35:03 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\56\left.java del fail
+ 2019--04--16 04:35:06 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\57\left.java del fail
+ 2019--04--16 04:35:08 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\58\left.java del fail
+ 2019--04--16 04:35:10 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\59\left.java del fail
+ 2019--04--16 04:35:13 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\60\left.java del fail
+ 2019--04--16 04:35:15 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\61\left.java del fail
+ 2019--04--16 04:35:17 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\62\left.java del fail
+ 2019--04--16 04:35:19 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\63\left.java del fail
+ 2019--04--16 04:35:21 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\4341738437932378e573e4a191d6322745f01c08\64\left.java del fail
+ 2019--04--16 04:35:21 (class:MainDis)-(INFO) a6f5cae6ccd9390b943f164afb2b193b1c58a1e4 p 41421bb67d1f64046190937642c702623a1008dc
+ 2019--04--16 04:35:25 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\a6f5cae6ccd9390b943f164afb2b193b1c58a1e4\0\left.java del fail
+ 2019--04--16 04:35:27 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\a6f5cae6ccd9390b943f164afb2b193b1c58a1e4\1\left.java del fail
+ 2019--04--16 04:35:28 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/41421bb67d1f64046190937642c702623a1008dc/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/ParameterDetailTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/41421bb67d1f64046190937642c702623a1008dc/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/ParameterDetailTest.java
+ 2019--04--16 04:35:29 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\a6f5cae6ccd9390b943f164afb2b193b1c58a1e4\2\right.java del fail
+ 2019--04--16 04:35:31 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\a6f5cae6ccd9390b943f164afb2b193b1c58a1e4\3\left.java del fail
+ 2019--04--16 04:35:31 (class:MainDis)-(INFO) 41421bb67d1f64046190937642c702623a1008dc p 928e6d583a27d42937e8e393acb86cd8124b1333
+ 2019--04--16 04:35:34 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\41421bb67d1f64046190937642c702623a1008dc\0\left.java del fail
+ 2019--04--16 04:35:34 (class:MainDis)-(INFO) 928e6d583a27d42937e8e393acb86cd8124b1333 p 5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7
+ 2019--04--16 04:35:38 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\928e6d583a27d42937e8e393acb86cd8124b1333\0\left.java del fail
+ 2019--04--16 04:35:40 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\928e6d583a27d42937e8e393acb86cd8124b1333\1\left.java del fail
+ 2019--04--16 04:35:40 (class:MainDis)-(INFO) 5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7 p 62d63c8fb423de1ef8419d4f4aad2e86ef406248
+ 2019--04--16 04:35:43 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7\0\left.java del fail
+ 2019--04--16 04:35:43 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7\0\left.java del fail
+ 2019--04--16 04:35:45 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7\1\left.java del fail
+ 2019--04--16 04:35:45 (class:MainDis)-(INFO) 62d63c8fb423de1ef8419d4f4aad2e86ef406248 p c46838509aaafd207f83a44f7f2e0072776a2e51
+ 2019--04--16 04:35:47 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\0\left.java del fail
+ 2019--04--16 04:35:51 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\1\left.java del fail
+ 2019--04--16 04:35:51 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Job.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Job.java
+ 2019--04--16 04:35:53 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\2\right.java del fail
+ 2019--04--16 04:35:55 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\3\left.java del fail
+ 2019--04--16 04:35:57 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\4\left.java del fail
+ 2019--04--16 04:35:59 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\5\left.java del fail
+ 2019--04--16 04:36:00 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Repeat.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Repeat.java
+ 2019--04--16 04:36:01 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\6\right.java del fail
+ 2019--04--16 04:36:02 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/job/CancelScheduledJob.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/job/CancelScheduledJob.java
+ 2019--04--16 04:36:03 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\7\right.java del fail
+ 2019--04--16 04:36:04 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/job/CancelScheduledJobTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/job/CancelScheduledJobTest.java
+ 2019--04--16 04:36:05 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\8\right.java del fail
+ 2019--04--16 04:36:08 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\10\left.java del fail
+ 2019--04--16 04:36:08 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandler.java
+ 2019--04--16 04:36:10 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\11\right.java del fail
+ 2019--04--16 04:36:13 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\12\left.java del fail
+ 2019--04--16 04:36:14 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandlerTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandlerTest.java
+ 2019--04--16 04:36:15 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\13\right.java del fail
+ 2019--04--16 04:36:17 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\15\left.java del fail
+ 2019--04--16 04:36:19 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\16\left.java del fail
+ 2019--04--16 04:36:21 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\17\left.java del fail
+ 2019--04--16 04:36:22 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/rest-api/core-rest/src/test/java/uk/gov/gchq/gaffer/rest/service/v2/JobServiceV2IT.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/rest-api/core-rest/src/test/java/uk/gov/gchq/gaffer/rest/service/v2/JobServiceV2IT.java
+ 2019--04--16 04:36:24 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\18\right.java del fail
+ 2019--04--16 04:36:26 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\62d63c8fb423de1ef8419d4f4aad2e86ef406248\19\left.java del fail
+ 2019--04--16 04:36:26 (class:MainDis)-(INFO) c46838509aaafd207f83a44f7f2e0072776a2e51 p 8670ffe5935285d48bc74d4860d3e56b4e139316
+ 2019--04--16 04:36:29 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c46838509aaafd207f83a44f7f2e0072776a2e51\0\left.java del fail
+ 2019--04--16 04:36:31 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c46838509aaafd207f83a44f7f2e0072776a2e51\1\left.java del fail
+ 2019--04--16 04:36:33 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c46838509aaafd207f83a44f7f2e0072776a2e51\2\left.java del fail
+ 2019--04--16 04:36:35 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c46838509aaafd207f83a44f7f2e0072776a2e51\3\left.java del fail
+ 2019--04--16 04:36:38 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c46838509aaafd207f83a44f7f2e0072776a2e51\4\left.java del fail
+ 2019--04--16 04:36:40 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c46838509aaafd207f83a44f7f2e0072776a2e51\5\left.java del fail
+ 2019--04--16 04:36:42 (class:MainDis)-(INFO) c46838509aaafd207f83a44f7f2e0072776a2e51 hasChangedModifer in:core/graph/src/test/java/uk/gov/gchq/gaffer/graph/hook/NamedViewResolverTest.java
+ 2019--04--16 04:36:44 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\c46838509aaafd207f83a44f7f2e0072776a2e51\7\left.java del fail
+ 2019--04--16 04:36:45 (class:MainDis)-(INFO) 8670ffe5935285d48bc74d4860d3e56b4e139316 p 63bb613ae1c5696f5cea894b51c33df809aa97d5
+ 2019--04--16 04:36:48 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\8670ffe5935285d48bc74d4860d3e56b4e139316\0\left.java del fail
+ 2019--04--16 04:36:48 (class:MainDis)-(INFO) 63bb613ae1c5696f5cea894b51c33df809aa97d5 p aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f
+ 2019--04--16 04:36:50 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\63bb613ae1c5696f5cea894b51c33df809aa97d5\0\left.java del fail
+ 2019--04--16 04:36:52 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\63bb613ae1c5696f5cea894b51c33df809aa97d5\1\left.java del fail
+ 2019--04--16 04:36:52 (class:MainDis)-(INFO) aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f p 6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9
+ 2019--04--16 04:36:54 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonConstants.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonConstants.java
+ 2019--04--16 04:36:55 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f\0\right.java del fail
+ 2019--04--16 04:36:56 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonDeserialiser.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonDeserialiser.java
+ 2019--04--16 04:36:57 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f\1\right.java del fail
+ 2019--04--16 04:36:58 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonSerialiser.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonSerialiser.java
+ 2019--04--16 04:36:59 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f\2\right.java del fail
+ 2019--04--16 04:37:00 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/package-info.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/package-info.java
+ 2019--04--16 04:37:00 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f\3\right.java del fail
+ 2019--04--16 04:37:03 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f\4\left.java del fail
+ 2019--04--16 04:37:04 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/test/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllpSketchJsonSerialisationTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/test/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllpSketchJsonSerialisationTest.java
+ 2019--04--16 04:37:05 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f\5\right.java del fail
+ 2019--04--16 04:37:05 (class:MainDis)-(INFO) 6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9 p 03bf2890109894f8725d962b8cc480ad48f2e3b3
+ 2019--04--16 04:37:08 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\0\left.java del fail
+ 2019--04--16 04:37:10 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\1\left.java del fail
+ 2019--04--16 04:37:13 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\2\left.java del fail
+ 2019--04--16 04:37:15 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\3\left.java del fail
+ 2019--04--16 04:37:18 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\4\left.java del fail
+ 2019--04--16 04:37:20 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\5\left.java del fail
+ 2019--04--16 04:37:21 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiser.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiser.java
+ 2019--04--16 04:37:22 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\8\right.java del fail
+ 2019--04--16 04:37:23 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/types/CustomMap.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/types/CustomMap.java
+ 2019--04--16 04:37:24 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\9\right.java del fail
+ 2019--04--16 04:37:25 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiserTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiserTest.java
+ 2019--04--16 04:37:26 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\10\right.java del fail
+ 2019--04--16 04:37:26 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/types/CustomMapTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/types/CustomMapTest.java
+ 2019--04--16 04:37:28 (class:DelFile)-(INFO) E:\方向论文\隐性冲突\gchq\Gaffer\6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9\11\right.java del fail
+ 2019--04--16 04:37:28 (class:MainDis)-(INFO) 03bf2890109894f8725d962b8cc480ad48f2e3b3 p 8e676282e75252e7948cb32ba94cad623978b313
+ 2019--04--16 04:37:53 (class:MainDis)-(INFO) start
+ 2019--04--16 04:37:56 (class:MainDis)-(INFO) 219fdb0fe3fdfd79037c108156c8d27f41a95038 p 77309b9996fbff6367d7d9ce83f3399a47ec76fa
+ 2019--04--16 04:37:57 (class:MainDis)-(INFO) 77309b9996fbff6367d7d9ce83f3399a47ec76fa p 9deef53d498a6f308fa622be7015626bf9890dc4
+ 2019--04--16 04:37:57 (class:MainDis)-(INFO) 9deef53d498a6f308fa622be7015626bf9890dc4 p fbc36c71f91fd25deca7480ec25010fba49fb035
+ 2019--04--16 04:38:01 (class:MainDis)-(INFO) fbc36c71f91fd25deca7480ec25010fba49fb035 p c90366335f370a96330ccc3d348d136c8fe44c85
+ 2019--04--16 04:38:01 (class:MainDis)-(INFO) c90366335f370a96330ccc3d348d136c8fe44c85 p d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d
+ 2019--04--16 04:38:02 (class:MainDis)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d p 359f0c65c3a61e8e295db779da842573dcb26bb5
+ 2019--04--16 04:38:12 (class:MainDis)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d hasChangedModifer in:library/time-library/src/test/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRangeTest.java
+ 2019--04--16 04:38:12 (class:MainDis)-(INFO) 359f0c65c3a61e8e295db779da842573dcb26bb5 p dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344
+ 2019--04--16 04:38:20 (class:MainDis)-(INFO) dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344 p 827d338d08dde15f8cabfdd05d7a1a56772df026
+ 2019--04--16 04:38:20 (class:MainDis)-(INFO) 827d338d08dde15f8cabfdd05d7a1a56772df026 p 8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1
+ 2019--04--16 04:38:21 (class:MainDis)-(INFO) 8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1 p 6664ed27026c035104a4936a0847e7587e1c3fe0
+ 2019--04--16 04:38:22 (class:MainDis)-(INFO) 6664ed27026c035104a4936a0847e7587e1c3fe0 p c8a89afd4fad7cd81d411abb12e63b11898eab23
+ 2019--04--16 04:38:27 (class:MainDis)-(INFO) c8a89afd4fad7cd81d411abb12e63b11898eab23 p ee500d97b287e09eec3dc8f5c9aa98a19f1528a4
+ 2019--04--16 04:38:30 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java
+ 2019--04--16 04:38:30 (class:MainDis)-(INFO) error:null
+ 2019--04--16 04:38:30 (class:MainDis)-(INFO) end
+ 2019--04--16 04:42:03 (class:MainDis)-(INFO) start
+ 2019--04--16 04:42:07 (class:MainDis)-(INFO) 219fdb0fe3fdfd79037c108156c8d27f41a95038 p 77309b9996fbff6367d7d9ce83f3399a47ec76fa
+ 2019--04--16 04:42:07 (class:MainDis)-(INFO) 77309b9996fbff6367d7d9ce83f3399a47ec76fa p 9deef53d498a6f308fa622be7015626bf9890dc4
+ 2019--04--16 04:42:08 (class:MainDis)-(INFO) 9deef53d498a6f308fa622be7015626bf9890dc4 p fbc36c71f91fd25deca7480ec25010fba49fb035
+ 2019--04--16 04:42:11 (class:MainDis)-(INFO) fbc36c71f91fd25deca7480ec25010fba49fb035 p c90366335f370a96330ccc3d348d136c8fe44c85
+ 2019--04--16 04:42:12 (class:MainDis)-(INFO) c90366335f370a96330ccc3d348d136c8fe44c85 p d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d
+ 2019--04--16 04:42:12 (class:MainDis)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d p 359f0c65c3a61e8e295db779da842573dcb26bb5
+ 2019--04--16 04:42:19 (class:MainDis)-(INFO) d6a39cf4ab1f0c6b4c54a5095261b1677d7cf41d hasChangedModifer in:library/time-library/src/test/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRangeTest.java
+ 2019--04--16 04:42:19 (class:MainDis)-(INFO) 359f0c65c3a61e8e295db779da842573dcb26bb5 p dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344
+ 2019--04--16 04:42:26 (class:MainDis)-(INFO) dbb4e4b4ba2fa774784ef2fe5e26c49e6cc49344 p 827d338d08dde15f8cabfdd05d7a1a56772df026
+ 2019--04--16 04:42:27 (class:MainDis)-(INFO) 827d338d08dde15f8cabfdd05d7a1a56772df026 p 8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1
+ 2019--04--16 04:42:28 (class:MainDis)-(INFO) 8d2d99f6b2ed4234276261f8e2ec910aa7f2c8a1 p 6664ed27026c035104a4936a0847e7587e1c3fe0
+ 2019--04--16 04:42:29 (class:MainDis)-(INFO) 6664ed27026c035104a4936a0847e7587e1c3fe0 p c8a89afd4fad7cd81d411abb12e63b11898eab23
+ 2019--04--16 04:42:32 (class:MainDis)-(INFO) c8a89afd4fad7cd81d411abb12e63b11898eab23 p ee500d97b287e09eec3dc8f5c9aa98a19f1528a4
+ 2019--04--16 04:42:35 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/ee500d97b287e09eec3dc8f5c9aa98a19f1528a4/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataFrameOfElementsHandler.java
+ 2019--04--16 04:42:38 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/c8a89afd4fad7cd81d411abb12e63b11898eab23/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataframeOfElementsHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c8a89afd4fad7cd81d411abb12e63b11898eab23/store-implementation/parquet-store/src/main/java/uk/gov/gchq/gaffer/parquetstore/operation/handler/spark/GetDataframeOfElementsHandler.java
+ 2019--04--16 04:43:03 (class:MainDis)-(INFO) ee500d97b287e09eec3dc8f5c9aa98a19f1528a4 p 4341738437932378e573e4a191d6322745f01c08
+ 2019--04--16 04:43:07 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/main/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRange.java
+ 2019--04--16 04:43:11 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/test/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRangeTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/4341738437932378e573e4a191d6322745f01c08/library/time-library/src/test/java/uk/gov/gchq/gaffer/time/function/MaskTimestampSetByTimeRangeTest.java
+ 2019--04--16 04:43:12 (class:MainDis)-(INFO) 4341738437932378e573e4a191d6322745f01c08 p a6f5cae6ccd9390b943f164afb2b193b1c58a1e4
+ 2019--04--16 04:45:37 (class:MainDis)-(INFO) a6f5cae6ccd9390b943f164afb2b193b1c58a1e4 p 41421bb67d1f64046190937642c702623a1008dc
+ 2019--04--16 04:45:43 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/41421bb67d1f64046190937642c702623a1008dc/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/ParameterDetailTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/41421bb67d1f64046190937642c702623a1008dc/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/ParameterDetailTest.java
+ 2019--04--16 04:45:46 (class:MainDis)-(INFO) 41421bb67d1f64046190937642c702623a1008dc p 928e6d583a27d42937e8e393acb86cd8124b1333
+ 2019--04--16 04:45:49 (class:MainDis)-(INFO) 928e6d583a27d42937e8e393acb86cd8124b1333 p 5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7
+ 2019--04--16 04:45:54 (class:MainDis)-(INFO) 5c7f67dbd4335c52cbefb2685bc351f0f0c89fd7 p 62d63c8fb423de1ef8419d4f4aad2e86ef406248
+ 2019--04--16 04:46:00 (class:MainDis)-(INFO) 62d63c8fb423de1ef8419d4f4aad2e86ef406248 p c46838509aaafd207f83a44f7f2e0072776a2e51
+ 2019--04--16 04:46:07 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Job.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Job.java
+ 2019--04--16 04:46:17 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Repeat.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/jobtracker/Repeat.java
+ 2019--04--16 04:46:19 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/job/CancelScheduledJob.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/job/CancelScheduledJob.java
+ 2019--04--16 04:46:21 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/job/CancelScheduledJobTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/job/CancelScheduledJobTest.java
+ 2019--04--16 04:46:25 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandler.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandler.java
+ 2019--04--16 04:46:29 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandlerTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/job/CancelScheduledJobHandlerTest.java
+ 2019--04--16 04:46:38 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/rest-api/core-rest/src/test/java/uk/gov/gchq/gaffer/rest/service/v2/JobServiceV2IT.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/c46838509aaafd207f83a44f7f2e0072776a2e51/rest-api/core-rest/src/test/java/uk/gov/gchq/gaffer/rest/service/v2/JobServiceV2IT.java
+ 2019--04--16 04:46:41 (class:MainDis)-(INFO) c46838509aaafd207f83a44f7f2e0072776a2e51 p 8670ffe5935285d48bc74d4860d3e56b4e139316
+ 2019--04--16 04:46:57 (class:MainDis)-(INFO) c46838509aaafd207f83a44f7f2e0072776a2e51 hasChangedModifer in:core/graph/src/test/java/uk/gov/gchq/gaffer/graph/hook/NamedViewResolverTest.java
+ 2019--04--16 04:47:01 (class:MainDis)-(INFO) 8670ffe5935285d48bc74d4860d3e56b4e139316 p 63bb613ae1c5696f5cea894b51c33df809aa97d5
+ 2019--04--16 04:47:03 (class:MainDis)-(INFO) 63bb613ae1c5696f5cea894b51c33df809aa97d5 p aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f
+ 2019--04--16 04:47:08 (class:MainDis)-(INFO) aede1fc882c3c30f1f2c9aa04e1df2bba6e9de4f p 6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9
+ 2019--04--16 04:47:10 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonConstants.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonConstants.java
+ 2019--04--16 04:47:11 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonDeserialiser.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonDeserialiser.java
+ 2019--04--16 04:47:13 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonSerialiser.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllSketchJsonSerialiser.java
+ 2019--04--16 04:47:15 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/package-info.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/main/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/package-info.java
+ 2019--04--16 04:47:19 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/test/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllpSketchJsonSerialisationTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9/library/sketches-library/src/test/java/uk/gov/gchq/gaffer/sketches/datasketches/cardinality/serialisation/json/HllpSketchJsonSerialisationTest.java
+ 2019--04--16 04:47:20 (class:MainDis)-(INFO) 6796cdc6d95a2d5ba4d0fff3b01512b5a7da81b9 p 03bf2890109894f8725d962b8cc480ad48f2e3b3
+ 2019--04--16 04:47:35 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiser.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiser.java
+ 2019--04--16 04:47:37 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/types/CustomMap.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/main/java/uk/gov/gchq/gaffer/types/CustomMap.java
+ 2019--04--16 04:47:39 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiserTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/serialisation/CustomMapSerialiserTest.java
+ 2019--04--16 04:47:41 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/types/CustomMapTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/03bf2890109894f8725d962b8cc480ad48f2e3b3/core/type/src/test/java/uk/gov/gchq/gaffer/types/CustomMapTest.java
+ 2019--04--16 04:47:42 (class:MainDis)-(INFO) 03bf2890109894f8725d962b8cc480ad48f2e3b3 p 8e676282e75252e7948cb32ba94cad623978b313
+ 2019--04--16 04:47:52 (class:MainDis)-(INFO) 8e676282e75252e7948cb32ba94cad623978b313 p fc9a587e041dd1112007440e69cb64a0dce01637
+ 2019--04--16 04:48:09 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/fc9a587e041dd1112007440e69cb64a0dce01637/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/NamedOperationTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/fc9a587e041dd1112007440e69cb64a0dce01637/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/NamedOperationTest.java
+ 2019--04--16 04:48:12 (class:MainDis)-(INFO) a9af361b92de58efb79ccb5f798658c504b5be9b p 3d3da56086249d8158615c3e03d2f8d44b4abd5c
+ 2019--04--16 04:48:13 (class:MainDis)-(INFO) 3d3da56086249d8158615c3e03d2f8d44b4abd5c p 4c9c8a7b1dbfc1dd7bb73de8e4d8d43e2a43cbc0
+ 2019--04--16 04:48:30 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/4c9c8a7b1dbfc1dd7bb73de8e4d8d43e2a43cbc0/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/NamedOperationTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/4c9c8a7b1dbfc1dd7bb73de8e4d8d43e2a43cbc0/core/operation/src/test/java/uk/gov/gchq/gaffer/named/operation/NamedOperationTest.java
+ 2019--04--16 04:48:34 (class:MainDis)-(INFO) 4c9c8a7b1dbfc1dd7bb73de8e4d8d43e2a43cbc0 p f7f8387c7097a941d6b380301337006e8f146436
+ 2019--04--16 04:48:35 (class:MainDis)-(INFO) fc9a587e041dd1112007440e69cb64a0dce01637 p 3fbe40257f5a02c6f792f389e8643e9de23096d0
+ 2019--04--16 04:48:36 (class:MainDis)-(INFO) 3fbe40257f5a02c6f792f389e8643e9de23096d0 p 627aa6dca03bd1017e0b327aac26e5bb38d426f3
+ 2019--04--16 04:48:36 (class:MainDis)-(INFO) f7f8387c7097a941d6b380301337006e8f146436 p c4e363ace625a8a653da565ab08045f0e1825e45
+ 2019--04--16 04:48:37 (class:MainDis)-(INFO) c4e363ace625a8a653da565ab08045f0e1825e45 p 3f78a39177a83cc598e6a52e213fccb4e990b75d
+ 2019--04--16 04:48:40 (class:MainDis)-(INFO) 627aa6dca03bd1017e0b327aac26e5bb38d426f3 p e0f038ede459e3e0d0111a667e57015fc6c6f669
+ 2019--04--16 04:48:43 (class:MainDis)-(INFO) d3d2471590b0c9c57654bc147a00abd091de0813 p ae8c4f38eea5d3d81d6efb6fc608adaab22c5611
+ 2019--04--16 04:48:46 (class:MainDis)-(INFO) ae8c4f38eea5d3d81d6efb6fc608adaab22c5611 p 254ae3da2c69210e1f309c927c33c4c3981a0bb0
+ 2019--04--16 04:48:46 (class:MainDis)-(INFO) e0f038ede459e3e0d0111a667e57015fc6c6f669 p f09a8e7b7297a8eb2c30f41b057a5fa46afbc604
+ 2019--04--16 04:48:47 (class:MainDis)-(INFO) f09a8e7b7297a8eb2c30f41b057a5fa46afbc604 p a3e51d4505184338af9d90ba50891c2b04def697
+ 2019--04--16 04:48:48 (class:MainDis)-(INFO) 3f78a39177a83cc598e6a52e213fccb4e990b75d p 254ae3da2c69210e1f309c927c33c4c3981a0bb0
+ 2019--04--16 04:48:48 (class:MainDis)-(INFO) a3e51d4505184338af9d90ba50891c2b04def697 p 6cf389213d2a8469d2c0b2af2a79ae428fe16c9e
+ 2019--04--16 04:49:12 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/merge/Merge.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/merge/Merge.java
+ 2019--04--16 04:49:14 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoin.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoin.java
+ 2019--04--16 04:49:18 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoin.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoin.java
+ 2019--04--16 04:49:36 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoinTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoinTest.java
+ 2019--04--16 04:49:40 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoinTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoinTest.java
+ 2019--04--16 04:49:50 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6cf389213d2a8469d2c0b2af2a79ae428fe16c9e/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatch.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6cf389213d2a8469d2c0b2af2a79ae428fe16c9e/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatch.java
+ 2019--04--16 04:49:53 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMerge.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMerge.java
+ 2019--04--16 04:49:55 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/MergeType.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/MergeType.java
+ 2019--04--16 04:49:57 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ResultsWanted.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ResultsWanted.java
+ 2019--04--16 04:50:07 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/6cf389213d2a8469d2c0b2af2a79ae428fe16c9e/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatchTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/6cf389213d2a8469d2c0b2af2a79ae428fe16c9e/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatchTest.java
+ 2019--04--16 04:50:11 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMergeTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/a3e51d4505184338af9d90ba50891c2b04def697/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMergeTest.java
+ 2019--04--16 04:50:16 (class:MainDis)-(INFO) 254ae3da2c69210e1f309c927c33c4c3981a0bb0 p 83a76c4001b5fd6fd55da86b6a86d1be4282b560
+ 2019--04--16 04:50:23 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/merge/Merge.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/merge/Merge.java
+ 2019--04--16 04:50:25 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoin.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoin.java
+ 2019--04--16 04:50:29 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoin.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/main/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoin.java
+ 2019--04--16 04:50:46 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoinTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullInnerJoinTest.java
+ 2019--04--16 04:50:50 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoinTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/operation/src/test/java/uk/gov/gchq/gaffer/operation/impl/join/methods/FullOuterJoinTest.java
+ 2019--04--16 04:51:00 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/83a76c4001b5fd6fd55da86b6a86d1be4282b560/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatch.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/83a76c4001b5fd6fd55da86b6a86d1be4282b560/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatch.java
+ 2019--04--16 04:51:03 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMerge.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMerge.java
+ 2019--04--16 04:51:05 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/MergeType.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/MergeType.java
+ 2019--04--16 04:51:07 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ResultsWanted.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/main/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ResultsWanted.java
+ 2019--04--16 04:51:12 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/83a76c4001b5fd6fd55da86b6a86d1be4282b560/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatchTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/83a76c4001b5fd6fd55da86b6a86d1be4282b560/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/match/KeyFunctionMatchTest.java
+ 2019--04--16 04:51:15 (class:net.TextDown)-(INFO) right:true	https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMergeTest.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/254ae3da2c69210e1f309c927c33c4c3981a0bb0/core/store/src/test/java/uk/gov/gchq/gaffer/store/operation/handler/join/merge/ElementMergeTest.java
+ 2019--04--16 04:51:17 (class:MainDis)-(INFO) 83a76c4001b5fd6fd55da86b6a86d1be4282b560 p 6fefa5f7690c195482a9b5b29404ff750b918ca5
+ 2019--04--16 04:51:26 (class:MainDis)-(INFO) 6fefa5f7690c195482a9b5b29404ff750b918ca5 p 6ca9b77e9cbb18124910606e1460a50d43f6b77e
+ 2019--04--16 04:51:38 (class:MainDis)-(INFO) 6ca9b77e9cbb18124910606e1460a50d43f6b77e p efaeec06bc44a1d80c4a7c87072ba205a767d79f
+ 2019--04--16 04:51:45 (class:MainDis)-(INFO) 6cf389213d2a8469d2c0b2af2a79ae428fe16c9e p 69235c75f25854ab15ee8e4d1fdd53331aac270b
+ 2019--04--16 04:52:01 (class:MainDis)-(INFO) bb6cc94fdeabbdfaf29b422d9363fa61cacc8749 p 93d32c3c32b83199f97505369296d3bd374d95d6
+ 2019--04--16 04:52:10 (class:MainDis)-(INFO) 69235c75f25854ab15ee8e4d1fdd53331aac270b p efaeec06bc44a1d80c4a7c87072ba205a767d79f
+ 2019--04--16 04:52:17 (class:MainDis)-(INFO) 15abf9aa3199ba12b10d68111898c02dd2cf529c p 000f7e779db6df5e5c59187656a8e3d21c41a2c6
+ 2019--04--16 04:52:20 (class:MainDis)-(INFO) 000f7e779db6df5e5c59187656a8e3d21c41a2c6 p ac6a783ae29f750c2c8e325933c39e7c837ca768
+ 2019--04--16 04:52:29 (class:MainDis)-(INFO) 93d32c3c32b83199f97505369296d3bd374d95d6 p 78b77b74848926c32a2e4857820a9197772dd93c
+ 2019--04--16 04:52:32 (class:MainDis)-(INFO) 78b77b74848926c32a2e4857820a9197772dd93c p 5bcae4c0aa32fdb6ecf8c259afe91a2d6fbfdb05
+ 2019--04--16 04:52:46 (class:MainDis)-(INFO) efaeec06bc44a1d80c4a7c87072ba205a767d79f p 702235daf900c785b9c5acc57040674778d37716
+ 2019--04--16 04:52:46 (class:MainDis)-(INFO) 702235daf900c785b9c5acc57040674778d37716 p 885d688363b38fd94326e1768800b555b3e1b5b1
+ 2019--04--16 04:52:47 (class:MainDis)-(INFO) 885d688363b38fd94326e1768800b555b3e1b5b1 p c747f8ca9c2963854c8a0b943440ac6726ebd9d3
+ 2019--04--16 04:52:47 (class:MainDis)-(INFO) c747f8ca9c2963854c8a0b943440ac6726ebd9d3 p 6abb5e8e3e96fb04add505beb2ad3ae5ae469f1c
+ 2019--04--16 04:52:48 (class:MainDis)-(INFO) 6abb5e8e3e96fb04add505beb2ad3ae5ae469f1c p 2b6c8597ecc11cd714ac18a8648d1763c9fe890d
+ 2019--04--16 04:52:48 (class:MainDis)-(INFO) 2b6c8597ecc11cd714ac18a8648d1763c9fe890d p 38c1a8d0985b9da32ad1ecb466958c2d638f09f8
+ 2019--04--16 04:52:49 (class:MainDis)-(INFO) 38c1a8d0985b9da32ad1ecb466958c2d638f09f8 p 077a55f85dc11f03a1c8cf83a473f804509a67ac
+ 2019--04--16 04:52:59 (class:MainDis)-(INFO) ac6a783ae29f750c2c8e325933c39e7c837ca768 p 2e452c7ecfdfb5d0f6f9475428fde6c25e00b739
+ 2019--04--16 04:53:05 (class:MainDis)-(INFO) 2e452c7ecfdfb5d0f6f9475428fde6c25e00b739 p 1384c960ec2ec2bba7ba702936c5e42e74c16c14
+ 2019--04--16 04:53:09 (class:MainDis)-(INFO) 1384c960ec2ec2bba7ba702936c5e42e74c16c14 p 077a55f85dc11f03a1c8cf83a473f804509a67ac
+ 2019--04--16 04:53:16 (class:MainDis)-(INFO) 077a55f85dc11f03a1c8cf83a473f804509a67ac p d7118c30dcc17c1987be9d1fee01c71c7b4d85fb
+ 2019--04--16 04:53:17 (class:MainDis)-(INFO) d7118c30dcc17c1987be9d1fee01c71c7b4d85fb p 03744259cada6632d5855803c0347ce98d128ecb
+ 2019--04--16 04:53:17 (class:MainDis)-(INFO) 03744259cada6632d5855803c0347ce98d128ecb p 1178f169360769aa4058002b5bd987a4ef7e5484
+ 2019--04--16 04:53:20 (class:MainDis)-(INFO) 1178f169360769aa4058002b5bd987a4ef7e5484 p 88d9883523873eed36653945353ef338ec45a534
+ 2019--04--16 04:53:21 (class:MainDis)-(INFO) 88d9883523873eed36653945353ef338ec45a534 p 6bd65474565cfea3b511c0fc4023676dc0cf9aff
+ 2019--04--16 04:53:21 (class:MainDis)-(INFO) 6bd65474565cfea3b511c0fc4023676dc0cf9aff p 9d892723059140a513b60215b611aec4af22abd4
+ 2019--04--16 04:53:24 (class:MainDis)-(INFO) 5bcae4c0aa32fdb6ecf8c259afe91a2d6fbfdb05 p 1ad4f5252938e3937a2d1ba84255027578789ac3
+ 2019--04--16 04:53:25 (class:MainDis)-(INFO) 9d892723059140a513b60215b611aec4af22abd4 p 07d6b04fbeb36ac0b93591020617878b3ac7f711
+ 2019--04--16 04:53:25 (class:MainDis)-(INFO) 07d6b04fbeb36ac0b93591020617878b3ac7f711 p 680f0d7ebc3eec771e6ac80433efba585ef58971
+ 2019--04--16 04:53:26 (class:MainDis)-(INFO) 1ad4f5252938e3937a2d1ba84255027578789ac3 p f4aa0e2046f0956d5478ff819fed166bbea6bfd0
+ 2019--04--16 04:53:27 (class:MainDis)-(INFO) 680f0d7ebc3eec771e6ac80433efba585ef58971 p bd1ad2fb25754a051e50156df3ae2aba75f853f0
+ 2019--04--16 04:53:27 (class:MainDis)-(INFO) f4aa0e2046f0956d5478ff819fed166bbea6bfd0 p e066f19cca55b8eae520fc98cd51ddb0e7b039f7
+ 2019--04--16 04:54:24 (class:net.TextDown)-(INFO) right:false	https://github.com/gchq/Gaffer/raw/e066f19cca55b8eae520fc98cd51ddb0e7b039f7/core/common-util/src/main/java/uk/gov/gchq/gaffer/commonutil/ExecutorService.java	java.io.FileNotFoundException: https://github.com/gchq/Gaffer/raw/e066f19cca55b8eae520fc98cd51ddb0e7b039f7/core/common-util/src/main/java/uk/gov/gchq/gaffer/commonutil/ExecutorService.java
+ 

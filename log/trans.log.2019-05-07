@@ -1,0 +1,18 @@
+2019--05--07 02:10:50 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/f4b87deefecf4902992a84d4a3fe3b99a94ff72b/config/copycat-console-sink.properties : java.net.SocketException: Permission denied: connect
+ 2019--05--07 02:26:49 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/c30ee50d82131ead8bc64223ae5970555b0c78cf/copycat/runtime/src/main/java/org/apache/kafka/copycat/runtime/distributed/WorkerCoordinator.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 02:50:34 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/af42c37899e8fc66590e7f3c4893f8224441f6a8/tests/kafkatest/services/performance/jmx_mixin.py : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 03:47:24 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/d0adf6abec7a61004d9fe35fc9999a40a953ea7b/core/src/main/scala/kafka/api/ControlledShutdownRequest.scala : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 03:53:04 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/8c88d198a0bcd0292a6b7ec3b08ae138e41fcc6e/copycat/api/src/main/java/org/apache/kafka/copycat/sink/SinkRecord.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 05:02:23 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/d8fe98efee5a44ae12c1e3484fa20f89b0f30054/clients/src/main/java/org/apache/kafka/common/requests/OffsetCommitRequest.java : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 06:47:53 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/72610d1fc0bbf706a14f1605bf9862ea3830e707/core/src/main/scala/kafka/producer/SyncProducer.scala : java.net.SocketException: Permission denied: connect
+ 2019--05--07 08:26:53 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/1fb3e8c037c01ecfe6bb1d4261b59cb19baae6cf/core/src/main/scala/kafka/server/AbstractFetcherThread.scala : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 09:23:37 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/dd21b35120119dc35da7e800bfd50dad3dd2f44b/core/src/main/scala/kafka/server/MessageSetSend.scala : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 11:20:55 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/904708fae892417f248b74130da14a165747abcc/clients/cpp/src/encoder.hpp : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 11:29:28 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/79a3b31f267921dedbe8b6ca6af648609bb11dc0/core/src/test/scala/unit/kafka/producer/AsyncProducerTest.scala : java.net.ConnectException: Connection timed out: connect
+ 2019--05--07 11:39:44 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/2211243/commits?sha=2d8049b713f2b9982bd43e7340a0e0f302f30d6b&per_page=1&page=4802 reconnect
+ 2019--05--07 11:40:15 (class:MainDown)-(INFO) connectRep err:Server returned HTTP response code: -1, message: 'null' for URL: https://api.github.com/repos/apache/kafka
+ 2019--05--07 11:40:46 (class:MainDown)-(INFO) eit:Failed to retrieve https://api.github.com/repositories/2211243/commits?sha=2d8049b713f2b9982bd43e7340a0e0f302f30d6b&per_page=1&page=4802 reconnect
+ 2019--05--07 11:46:13 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/6e36047fae3338b425a63c0d1e4a5acb499e5207/core/src/main/scala/kafka/admin/AdminUtils.scala : java.net.SocketException: Software caused connection abort: recv failed
+ 2019--05--07 13:08:12 (class:MainDown)-(INFO) 642da2f28c9bc6e373603d6d9119ce33684090f5 no parents
+ 2019--05--07 13:23:26 (class:MainDown)-(INFO) end
+ 

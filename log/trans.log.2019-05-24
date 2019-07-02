@@ -1,0 +1,2 @@
+2019--05--24 12:11:32 (class:net.GzipDown)-(INFO) https://github.com/apache/kafka/raw/1eac3f33f5de3490046203a8e408970da161b84e/clients/src/main/java/org/apache/kafka/common/security/JaasUtils.java : java.net.ConnectException: Connection timed out: connect
+ 
