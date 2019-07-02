@@ -518,6 +518,7 @@ public class DBUtils {
 		return list;
 	}
 
+	/*考虑到son commit中的信息都是以parent为基准，也就是说它实际上包含了parent2路径上的所有信息，所以不再考虑son与parent2之间的关系*/
 	public static Set<CommitBean> getCommitsAround(String sha, int radius) {
 		Set<CommitBean> set = new HashSet<CommitBean>();
 		Set<CommitBean> children = getChildrenOfCommit(sha);
@@ -544,12 +545,11 @@ public class DBUtils {
 	private static Set<CommitBean> getChildrenOfCommit(String sha) {
 		PreparedStatement pstmt = null;
 		ResultSet rs = null;
-		String sql = "SELECT repName, dir, sha, parent, parent2 FROM conflict.commit where parent=? OR parent2=?";
+		String sql = "SELECT repName, dir, sha, parent, parent2 FROM conflict.commit where parent=?";
 		Set<CommitBean> list = new HashSet<CommitBean>();
 		try {
 			pstmt = conn.prepareStatement(sql);
 			pstmt.setString(1, sha);
-			pstmt.setString(2, sha);
 			rs = pstmt.executeQuery();
 			while(rs.next()) {
 				int i=1;
@@ -560,6 +560,42 @@ public class DBUtils {
 		catch (SQLException e) {
 			e.printStackTrace();
 			logger.error("db getChildOfCommit "+sha+"  : "+e);
+		} finally {
+			if (rs != null) {
+				try {
+					rs.close();
+				} catch (SQLException sqlEx) {
+				} // ignore
+				rs = null;
+			}
+			if (pstmt != null) {
+				try {
+					pstmt.close();
+				} catch (SQLException sqlEx) {
+				} // ignore
+				pstmt = null;
+			}
+		}
+		return list;
+	}
+	private static Set<CommitBean> getParentOfCommit(String sha) {
+		PreparedStatement pstmt = null;
+		ResultSet rs = null;
+		String sql = "SELECT repName, dir, sha, parent, parent2 FROM conflict.commit where sha = (SELECT parent FROM conflict.commit where sha = ?)";
+		Set<CommitBean> list = new HashSet<CommitBean>();
+		try {
+			pstmt = conn.prepareStatement(sql);
+			pstmt.setString(1, sha);
+			rs = pstmt.executeQuery();
+			while(rs.next()) {
+				int i=1;
+				CommitBean cb = new CommitBean(rs.getString(i++), rs.getString(i++), rs.getString(i++), rs.getString(i++), rs.getString(i++));
+				list.add(cb);
+			}
+		}
+		catch (SQLException e) {
+			e.printStackTrace();
+			logger.error("db getParentsOfCommit "+sha+"  : "+e);
 		} finally {
 			if (rs != null) {
 				try {
@@ -619,8 +655,9 @@ public class DBUtils {
 
 	public static void main(String[] args) {
 //		getCommitsAround("77309b9996fbff6367d7d9ce83f3399a47ec76fa", 1);
-		getCommitsAround("3fbe40257f5a02c6f792f389e8643e9de23096d0", 1);
 		Set<CommitBean> set = getChildrenOfCommit("f7f8387c7097a941d6b380301337006e8f146436");
+		set = getParentOfCommit("f7f8387c7097a941d6b380301337006e8f146436");
+		set = getCommitsAround("f7f8387c7097a941d6b380301337006e8f146436", 1);
 		System.out.println();
 	}
 
