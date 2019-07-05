@@ -1,6 +1,6 @@
 package db;
 
-import bean.CauseABean1;
+import bean.CauseBBean1;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -14,6 +14,7 @@ import java.util.Set;
 import org.apache.log4j.Logger;
 
 import bean.CauseABean;
+import bean.CauseABean1;
 import bean.CauseBBean;
 import bean.CommitBean;
 import bean.FilePair;
@@ -517,18 +518,61 @@ public class DBUtils {
 		}
 		return list;
 	}
+	public static List<CauseABean1> getCauseA1s() {
+		PreparedStatement pstmt = null;
+		ResultSet rs = null;
+		String sql = "SELECT repName,sha,fullfile,className,fieldName,id,type0,type1 FROM conflict.causeA1";
+		List<CauseABean1> list = new ArrayList<CauseABean1>();
+		try {
+			pstmt = conn.prepareStatement(sql);
+			rs = pstmt.executeQuery();
+			while(rs.next()) {
+				int i=1;
+				CauseABean1 causeA1 = new CauseABean1();
+				causeA1.repName = rs.getString(i++);
+				causeA1.sha = rs.getString(i++);
+				causeA1.fullfile = rs.getString(i++);
+				causeA1.className = rs.getString(i++);
+				causeA1.fieldName = rs.getString(i++);
+				causeA1.id = rs.getInt(i++);
+				causeA1.type0 = rs.getString(i++);
+				causeA1.type1 = rs.getString(i++);
+				list.add(causeA1);
+			}
+		}
+		catch (SQLException e) {
+			e.printStackTrace();
+			logger.error("db getCauseAs : "+e);
+		} finally {
+			if (rs != null) {
+				try {
+					rs.close();
+				} catch (SQLException sqlEx) {
+				} // ignore
+				rs = null;
+			}
+			if (pstmt != null) {
+				try {
+					pstmt.close();
+				} catch (SQLException sqlEx) {
+				} // ignore
+				pstmt = null;
+			}
+		}
+		return list;
+	}
 
 	/*考虑到son commit中的信息都是以parent为基准，也就是说它实际上包含了parent2路径上的所有信息，所以不再考虑son与parent2之间的关系*/
 	public static Set<CommitBean> getCommitsAround(String sha, int radius) {
 		Set<CommitBean> set = new HashSet<CommitBean>();
 		Set<CommitBean> children = getChildrenOfCommit(sha);
-		Set<CommitBean> parents = getParentsOfCommit(sha);
+		Set<CommitBean> parents = getParentOfCommit(sha);
 		set.addAll(parents);
 		set.addAll(children);
 		while(--radius>0) {
 			Set<CommitBean> newparents = new HashSet<CommitBean>();
 			for(CommitBean cb : parents) {
-				newparents.addAll(getParentsOfCommit(cb.sha));
+				newparents.addAll(getParentOfCommit(cb.sha));
 			}
 			parents = newparents;
 			set.addAll(parents);
@@ -595,7 +639,7 @@ public class DBUtils {
 		}
 		catch (SQLException e) {
 			e.printStackTrace();
-			logger.error("db getParentsOfCommit "+sha+"  : "+e);
+			logger.error("db getParentOfCommit "+sha+"  : "+e);
 		} finally {
 			if (rs != null) {
 				try {
@@ -614,50 +658,47 @@ public class DBUtils {
 		}
 		return list;
 	}
-	private static Set<CommitBean> getParentsOfCommit(String sha) {
-		PreparedStatement pstmt = null;
-		ResultSet rs = null;
-		String sql = "SELECT repName, dir, sha, parent, parent2 FROM conflict.commit where sha = (SELECT parent FROM conflict.commit where sha = ?)"
-				+ " OR sha = (SELECT parent2 FROM conflict.commit where sha = ?)";
-		Set<CommitBean> list = new HashSet<CommitBean>();
-		try {
-			pstmt = conn.prepareStatement(sql);
-			pstmt.setString(1, sha);
-			pstmt.setString(2, sha);
-			rs = pstmt.executeQuery();
-			while(rs.next()) {
-				int i=1;
-				CommitBean cb = new CommitBean(rs.getString(i++), rs.getString(i++), rs.getString(i++), rs.getString(i++), rs.getString(i++));
-				list.add(cb);
-			}
-		}
-		catch (SQLException e) {
-			e.printStackTrace();
-			logger.error("db getParentsOfCommit "+sha+"  : "+e);
-		} finally {
-			if (rs != null) {
-				try {
-					rs.close();
-				} catch (SQLException sqlEx) {
-				} // ignore
-				rs = null;
-			}
-			if (pstmt != null) {
-				try {
-					pstmt.close();
-				} catch (SQLException sqlEx) {
-				} // ignore
-				pstmt = null;
-			}
-		}
-		return list;
-	}
+//	private static Set<CommitBean> getParentsOfCommit(String sha) {
+//		PreparedStatement pstmt = null;
+//		ResultSet rs = null;
+//		String sql = "SELECT repName, dir, sha, parent, parent2 FROM conflict.commit where sha = (SELECT parent FROM conflict.commit where sha = ?)"
+//				+ " OR sha = (SELECT parent2 FROM conflict.commit where sha = ?)";
+//		Set<CommitBean> list = new HashSet<CommitBean>();
+//		try {
+//			pstmt = conn.prepareStatement(sql);
+//			pstmt.setString(1, sha);
+//			pstmt.setString(2, sha);
+//			rs = pstmt.executeQuery();
+//			while(rs.next()) {
+//				int i=1;
+//				CommitBean cb = new CommitBean(rs.getString(i++), rs.getString(i++), rs.getString(i++), rs.getString(i++), rs.getString(i++));
+//				list.add(cb);
+//			}
+//		}
+//		catch (SQLException e) {
+//			e.printStackTrace();
+//			logger.error("db getParentsOfCommit "+sha+"  : "+e);
+//		} finally {
+//			if (rs != null) {
+//				try {
+//					rs.close();
+//				} catch (SQLException sqlEx) {
+//				} // ignore
+//				rs = null;
+//			}
+//			if (pstmt != null) {
+//				try {
+//					pstmt.close();
+//				} catch (SQLException sqlEx) {
+//				} // ignore
+//				pstmt = null;
+//			}
+//		}
+//		return list;
+//	}
 
 	public static void main(String[] args) {
-//		getCommitsAround("77309b9996fbff6367d7d9ce83f3399a47ec76fa", 1);
-		Set<CommitBean> set = getChildrenOfCommit("f7f8387c7097a941d6b380301337006e8f146436");
-		set = getParentOfCommit("f7f8387c7097a941d6b380301337006e8f146436");
-		set = getCommitsAround("f7f8387c7097a941d6b380301337006e8f146436", 1);
+		List<CauseABean1> causeA1s = getCauseA1s();
 		System.out.println();
 	}
 
@@ -680,6 +721,43 @@ public class DBUtils {
 			e.printStackTrace();
 			System.out.println(pstmt);
 			logger.error(causeb.sha + " filePairId:" + causeb.filePairId +" insertCauseB err:" + e);
+			return 0;
+		} finally {
+			if (rs != null) {
+				try {
+					rs.close();
+				} catch (SQLException sqlEx) {
+				} // ignore
+				rs = null;
+			}
+			if (pstmt != null) {
+				try {
+					pstmt.close();
+				} catch (SQLException sqlEx) {
+				} // ignore
+				pstmt = null;
+			}
+		}
+	}
+	public static int insertCauseB1(CauseBBean1 causeb1) {
+		PreparedStatement pstmt = null;
+		ResultSet rs = null;
+
+		try {
+			String sql = "INSERT INTO conflict.causeB1 (repName,sha,causeAId,endPos,filePairId,startPos) VALUES (?,?,?,?,?,?)";
+			pstmt = conn.prepareStatement(sql);
+			int i = 1;
+			pstmt.setString(i++, causeb1.repName);
+			pstmt.setString(i++, causeb1.sha);
+			pstmt.setInt(i++, causeb1.causeAId);
+			pstmt.setInt(i++, causeb1.endPos);
+			pstmt.setInt(i++, causeb1.filePairId);
+			pstmt.setInt(i++, causeb1.startPos);
+			return pstmt.executeUpdate();
+		} catch (SQLException e) {
+			e.printStackTrace();
+			System.out.println(pstmt);
+			logger.error(causeb1.sha + " filePairId:" + causeb1.filePairId +" insertCauseB1 err:" + e);
 			return 0;
 		} finally {
 			if (rs != null) {
